@@ -11,8 +11,6 @@ import Image1 from './Static/container.jpg';
 import Image2 from './Static/Warehouse.jpg';
 import Image3 from './Static/brnd.jpg';
 import Grid from '@material-ui/core/Grid';
-import { alignItems } from '@material-ui/system';
-import { FormHelperText } from '@material-ui/core';
 
 const useStyles = makeStyles({
   root: {

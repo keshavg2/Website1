@@ -1,7 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Home from './Component/Home.js';
 import Background from './Component/Background';
 import Service from './Component/Service';
 import Logistic from './Component/Logistic';
